@@ -155,6 +155,9 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
             if (AdsAdmobUtils.loadedAOA == true) {
               Timer(Duration(seconds: 20), () {
                 AdsAdmobUtils.loadedAOA = false;
+                ;
+                ;
+                ;
               });
             }
           } else {
