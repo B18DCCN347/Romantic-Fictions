@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215382839853",
+    "project_id": "romantic-fictions",
+    "storage_bucket": "romantic-fictions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215382839853:android:c884f4abf6f21448fe5ea4",
+        "android_client_info": {
+          "package_name": "com.napoam21.romanticfictions.novelreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215382839853-6oi32vdv1mh94k7hkq1ou82huht2gbbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQgn6FmMlRbKz97C-kjLC9uvTTF5djGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215382839853-6oi32vdv1mh94k7hkq1ou82huht2gbbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
